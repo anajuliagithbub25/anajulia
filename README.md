@@ -15,8 +15,6 @@ Sou apaixonada por tecnologia, dedicada e sempre aprendendo. Tenho interesse esp
 - **Redes de computadores**  
 - **Desenvolvimento Web**  
 - **Engenharia de software e modelagem de sistemas**  
-*(conforme as disciplinas do curso ADS da Estácio)* :contentReference[oaicite:3]{index=3}
-
 ---
 
 ## 🛠️ Tecnologias e Ferramentas
